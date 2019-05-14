@@ -1,0 +1,163 @@
+				DRAGONBALL RPG for the PC
+					THE FAQ
+
+                  	 by Roger Nystrom (AADROMA@prodigy.net)
+
+
+
+From China comes an MS-DOS Role Playing Game based on the famous tailed boy with hair pointing on 
+end, Gokuu. However, since this game comes from China, it's obviously not going to be easy to 
+play without either Chinese knowledge (even slight recognition of certain kanji characters that 
+are shared with Japanese) or original Dragon Ball knowledge.
+
+
+					BASIC CONTROLS
+					==============
+The arrow keys move Gokuu around.  Space is the "Action" key, which makes Gokuu talk to people, 
+open chests, choose replies, and the like.  Return gives you three choices: 
+
+ACTION
+EQUIP
+STATUS
+
+Choosing any of these will then bring up another menu, selecting which character you will be 
+doing these actions to.  Action brings up three choices:
+
+USE
+GIVE
+DROP
+
+Use obviously uses the object; note that, if you want to give to someone, you use this action.  
+Give will only give to another member of your party.  Note that, once you drop something, you 
+CANNOT, ever ever EVER (did I mention ever?) get it back.
+
+Equip will let you select from your inventory which weapon you will equip the party member in 
+question with.  Status brings up what your character is equipped with in the lower left hand 
+corner (Head Protection, Left Hand, Right Hand, Shield, Armor). The rest tells level, life, 
+maximum life, experience needed for a level increase, and the like (not in that order - I've yet 
+to figure out all the data myself.)
+
+Shops are everywhere;  A building with a sword is the weapon shop, one with a shield is an armor 
+shop, a heart represents an inn, and a bottle represents magic, life restoring items, and all 
+other miscellaneous items.  To do business, go up to the shopkeeper, be sure you're parallel with 
+him or her, and press space. The two options are buy and sell.
+
+Other options are brought up by pressing escape; Pressing left and right moves the cursor, and up 
+and down moves a guage if there is on for that particular option. The options are:
+
+MUSIC LEVEL
+?! (Hasn't done anything for me)
+TEXT SPEED
+SAVE
+LOAD
+QUIT
+
+
+					ATTACK MODE
+					===========
+The menu is set up like so:
+
+ATTACK
+MAGIC
+ITEM
+RUN
+
+Attack is self-explanatory; Magic lets you choose between certain moves, but you need enough MP 
+to actually pull off the move.  If the character doesn't pull off a move, it's probably because 
+they don't have enough points to do it.  Item will let you select something from your inventory 
+to use, be it a health increaser or another item, like Bulma's Dynamite, which can be used as a 
+weapon.  Run escapes the enemy, but isn't usually too successful.  If attacking, using magic, or 
+using an item as a weapon, you will then be able to select which enemy you want to hit.
+
+Be sure not to get Gokuu killed, or the game ends.
+
+
+
+				PARTIAL WALKTHROUGH
+				===================
+
+
+Gokuu's Starting Inventory:
+	Light Heal
+	Light Heal
+	Transfer
+
+Light Heal is for battles; it heals up to 50 hit points.  It can be used in battle or in towns.  
+Transfer will teleport you to a town you've previously visited; it's pretty much useless for now.
+
+By going right, and following the path downwards from the house with the well, you will see a 
+blond girl with a purple uniform and beret.  This is Bulma (yes, I know she has bluish-purple 
+hair and doesn't look like that at all, but trust me, it's her).  Talk to her, and when she asks 
+you to help her find the seven Dragon Balls, hit space and select yes. Picking no will get you 
+eternally stuck, since she will ignore you and you won't be able to leave town without her.
+
+
+Bulma's Starting Inventory:
+	Dynamite
+	Dynamite
+	Dynamite
+	Dynamite
+	Dynamite
+
+Keep going down, and you'll find a weapon shop to the left, and an armor shop to the right.  The 
+enemies outside the towns are pretty brutal, and I've found it to be more beneficial in the long 
+run to think defensive before anything else.  Since Bulma is a weaker character, she will take 
+damage more quickly, thus I usually buy her a 2nd class armor (18th item). To buy an item in any 
+shop, go up to the clerk, be sure you are parallel to him/her, and press space.  Pressing space 
+again will buy an item; pressing down and space will select sell, which you can do with her old 
+armor after you equip her with her new armor.
+
+Follow the path further, and you will eventually find Gokuu's house.  Be sure to pick up the 
+Grand Life Refill (refills more than the Increasers that Gokuu starts off with) and the first 
+Dragon Ball.
+
+Other points of interest in Gokuu's town: There is an inn in town, but it usually isn't worth the 
+80 gold pieces until you get into the higher levels.  There is a magic/general items shop that 
+sells Life Increasers for 25 GP each.  After you sell Bulma's old armor, buy as many of these as 
+you can early in the game.  You'll notice that the town's exit is blocked by a big boulder.  Go 
+up to it and use Bulma's Dynamite on it.
+
+Out of town: Don't stray from town until you can get your level up, or you WILL get your ass 
+kicked.  Level 3 or 4 will do nicely.  Until then, stick by the town.  If you get a prompt to 
+enter some code, just enter any numbers you like and hit enter.  Move back and forth until you 
+get attacked.   The first battle will be the toughest.  It's a good idea to use Bulma's Dynamite 
+on stronger enemies (the ones that look like they have tentacles), but be sure you have one in 
+reserve! You'll need it.  Gokuu has enough MP to squeeze out his first Magic attack, but that's 
+it.  If your health drops to 30% or less, use your Life Increasers or the Grand Life Refill.  
+Once you win, go back in town, heal yourself, buy more Life Increasers, and go out.  Eventually 
+the battles will become easier, and you will be able to buy armor for Gokuu, weapons, and the 
+like.  Note that before you start improving Bulma's equipment, take into account that she can't
+use a lot of the items.  Save before you even think about upping her equipment.
+
+NOTE: If you don't feel like doing this level gaining bull, simply load game one.  Gokuu will 
+have all the best weapons; Bulma still needs alot of work, but she can survive.
+
+Outside Map: using Gokuu's town as an orient point, there are three other towns in this part of 
+Gokuu's world; going south will bring you to the Cave Town.  Going right from the Cave Town will 
+bring you to a town where you will find KameSennin's turtle, and going north from that town will 
+bring you to the town being tortured by the elusive Oolong.
+
+First, go to the town with the turtle (its appearance is one hut on the map).  The turtle can't 
+go back to sea because there seems to be yet another big old boulder blocking his path (they grow 
+plentiful in these parts ^_^).  Use Bulma's Dynamite by the rock, and talk to the turle.  He will 
+bring KameSennin, and he in turn will give you two items; the first is a gift offering, and the 
+second is the wind-producing item you'll need to put out a fire later in the game.
+
+Go to the town above which is having problems with Oolong kidnapping girls; talk to everyone in 
+that town, and Oolong will appear.  Talk to him and agree to fight him.  He's pretty much a wuss, 
+and he will ask to join your party.  Accept and you'll now have three team members! Then, talk to 
+the man standing still (he's somewhat next to the Chun-Li-looking woman walking around).  He will 
+give you the second Dragon Ball you need.
+
+Now go to the Cave Town.  A man will be blocking your path; give him the offering KameSennin gave 
+you.  He'll stroll off and you'll be able to look through the Cave Town.  You'll see little 
+mounds, one with a hole in it - it's to the right of the town.  Going through this cave will 
+bring you underground, where there will be a passage to Fire Mountain. You'll have to fight the 
+Ox King, but once you win, you can go in his castle, which will be burning up.  Use the wind 
+technique (I'd say Kamehameha, but it seems to be more of just a one-time wind burst in this 
+game) by the fire that's in your way.  It will go out, and you'll find the third Dragon Ball 
+
+There are more caves, and they lead to various castles, one where you meet up with Korin.  
+However, there are still things that I've yet to do, but this will get you through at least 
+30-40% of the game.  If you can remember where in God's name the rest of the Dragon Balls are, by 
+all means, tell me! It's been a while since I saw the original show...

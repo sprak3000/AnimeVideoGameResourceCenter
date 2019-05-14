@@ -1,996 +1,996 @@
-
-	The 4th Super Robot Wars Scramble Mini-FAQ Version 2.0
-
-Here's the explanation or translation of most of the command in the game, as 
-requested by someone. I didn't write a complete FAQ because 1) I need time 
-2) I am not Japanese, so I need to know all the names and stuff. 3) Nobody 
-seems to have this game....
-
-This FAQ should work with the 4SRW for SFC, but the regular instructions are 
-for the PS version, and the SFC version will be in (), so be careful!
-(I write the regular instructions for the PS version because that's the 
-version I have! But don't worry, I played and beat the SFC version too, so 
-the instructions will be correct.)
-
-If you feel or know that something is wrong in here, just E-mail me what's 
-wrong and I will fix it. If you have any comment or criticism is welcomed. 
-If you really want a full blown FAQ, just tell me and try to help me by 
-translating some of the robots and pilots name and stuff....
-
-Table of Content:
-
-1) Command or menu lists.
-
-2) Ability screen explanation.
-
-3) Complete "Magic" list and brief description
-
-4) Very brief Character's guide
-
-5) All the crossroads and details on some hard-to-get robots and pilots
-
-6) "Miracle" trick, hidden characters and some hints
-
-7) Closing comments
-
-
-1) Command or menu lists.
-
-	When you first started up your game, after the CG intro, you are 
-presented with 4 choices.
-
-  Start	This will start the game at very beginning
-
-  Load	This will start the game between stages. There are several (or 
-		two if SFC version) spaces for you to save the games in.
-
-  Continue	This will start the game during the stage you saved.
-
-  Option	Go to the option screen.
-
-
-			Option screen (from the main menu)
-
-  Sound		pick from Stereo or Mono.
-
-  Sound Test	listen to the various BGM from the game		
-
-  Karoke Mode	Watch and listen to the various Music video of several 
-			anime series.
-
-  Demo mode		Watch the transformation/combination video from the 
-			game. Only those you have seen (during the game) 
-			will be presented.
-
-  Delete		Delete one of the saves from storage.
-
-  Format		Clear all the saves from storage.
-
-  Deluxe Character
-  Encyclopedia  	a brief character description on every character 
-			that appears in game.
-
-  Illustrated 
-  Robot 
-  Encyclopedia	a brief robot description on every robot (almost) that
- 			appears in the game.In order for it to be shown, you 
-			have to 1) have the robot appears on the map during 
-			the game and 2) save either during the stage or 
-			afterward. The percentage show the percent of robots 
-			you have seen.
-
-
-	After you start from beginning, you have a choice of editing "your" 
-character in the game. If you decided to edit, keep in mind that only the 
-birthday and bloodtype counts toward the "magics" that your character will 
-have. Each sign and bloodtype will result in different sets of "magics" and 
-some specific combination of bloodtype and birthday will yield 
-special magic." You can edit the name, sex, face, personality, 
-birthday/Bloodtype,
-
-and pilot type.
-
-	Personalities: (Starting from top left going across to the right)
-
-1)  Hot Blooded with a strong sense of Justice
-2)  Logical but has and affinity for the opposite sex
-3)  A Little Weird
-4)  Cool and nihilistic
- 
-Note: Personalities don't really change much in the game other then your 
-characters dialogue (i.e. the way he or she talks and responds to other 
-characters. But if you don't know how to read Japanese , then it doesn't 
-really matter)
- 
-Choose Pilot Type:
-
-Robot types determine which Final Robot Your Character will pilot eventually.
-The robot you start with will also be different third weapon and minor HP, 
-EN, etc. differences.
-
-Real Robot pilot: will give you a mobile suit. It has a nice long range
-weapon. You will start with "Cutting" special ability and gain Newtype about 
-level 20. The robot you start with will have less HP, EN, but will have a 
-long range weapon.
-
-Super Robot Pilot:  will give you a huge transformable Robot with almost no 
-manuverblity but powerful Ki/moral attacks. You will start with "Cutting" 
-and Potential special ability. The robot you start with will have more HP, 
-EN and have a pretty powerful close range weapon.
-	
-	Map Screen
-
-	On the map screen, when you press the cancel botton on empty (without
-robot) squares, you can see the dodging and aiming enhancement on the robot 
-if a robot is there. When you press accept botton on empty squares, the main 
-map screen will appear.
-
-  Turn end	end your current turn and switch to enemy's turn.
-
-  Team list	List your robots on map according to either level or HP (use 
-		R to change). The bar in left indicate either EN or HP, with 
-		default being EN. Use L to change from EN to HP. By selecting 
-		from the list, your cursor will now point to the 
-		corresponding robot. the E next to the bar indicate that the 
-		robot has already used up all his movements point.
-
-  Whole Map	Display the whole map with each robots being represented by a
-		square according to if they're enemy or friends.
-
-  "Magic"	List all the "Magic" that your pilots can use. The red ones 
-		are those that you don't have the MP for. With your cursor 
-		over the "Magic", you will get an explanation of what it does
-		(except for one) on top. By selecting it, you will be 
-		presented with the list of pilots that can use it and the 
-		pilot's remaining SP.
-		Selecting off that will lead you to his/her robot directly.
-
-  Command	Change the commands issue during enemy's turn. The first 
-		option is to change all pilot's command at once. Each pilot 
-		is represented on menu except Non Player Characters(NPC). 
-		First choice is user decide, second is as long as you won't 
-		be killed, you will attack back. Third choice is always dodge
-		or block (this decision is based on mobility) when your enemy
-		is higher in levels,otherwise attack. The last option is 
-		always block or dodge.
-
-  Option		
-
-  Objective	The objective of completing this stage. Usually is the defeat
-		of all enemy on screen or the destruction of the boss.
-
-  Save		Save during this stage. You only get one spot. That means 
-		that even if you save seperately on stage 2 and 3, you will 
-		be brought back to the last save.
-
-
-	If you let the cursor on robot and press cancel, you will be shown 
-the enemy's HP, EN, Pilot's and robot's name, and moves remaining. The moves 
-remaining is shown will a W. Each W represent a movement point. If you 
-haven't use "Detection" or fight that robot yet, the HP, EN and moves won't 
-be shown. If you press accept, a normal menu will appear if that robot have 
-moves remaining or the ability screen will appear.
-
-	Normal Menu ( since this menu's order and content is different  on
- 			some robots, you have to test for which one is which)
-
-  Move		move your robot.	
-
-  Attack		
-
-  Ability	go to ability screen
-
-  Magic	use magic
-
-  Ground/
-  Air/
-  underground/
-  underwater
-		to land/air/underground/underwater
-
-  Transform	To transform. Only a few robot can transform.  you will be 
-		presented with list of option or just transform if there is 
-		only one option.
-
-  Separate	To separate. Only a few robots can separate. Robots like 
-		GP03, Re-GZ cannot be combined after separation. 
-
-  Combine	To combine. Only a few robots can combine. For two robot 
-		combination, just move one over another. For more than two, 
-		move them right next to each other.
-
-  Item		If you have items, use it here.
-
-  Launch	Battleship only. launch robots from battleship. Only shown if
-		there's robot on ship.
-
-  Convince	Certain pilots can convince enemy pilot to join them. You 
-		have to know the storyline of the original show in order to 
-		guess who can convice who. Remember that not all of them will
-		join you right there, some will join you later or even needed
-		to be convinced twice.
-
-	After you beat the stage and intermission, you will be presented with
-the rest menu.
-
-  Save	Save current progress.
-
-  Combine/
-  Transform	To combine or transform robots.
-
-  Upgrade	Upgrade the robots on HP, EN, armor, mobility and max output.
-		You can only upgrade eight times on each stat and each 
-		addition upgrade cause is doubled. The list is sorted 
-		according to HP.
-
-  Upgrade
-  Weapons 	to upgrade the weapons of robots. Can only upgrade 8 times.
-		Some weapons cost more to upgrade than others. Each upgraded 
-		weapons increase damage by 200.
-
-  Special 
-  items		to put special items on robot to be either use in stage or 
-		enhance performance. These can be found in the map or after 
-		certain stages.
-
-  Inspect	Check out the robot or pilot's ability. Robot is the first 
-		choice while pilot the second. If you press accept during the
-		robot's ability screen, you will go to its weapon's screen. 
-		Robots are sorted according to HP, while pilots are sorted 
-		according to level.
-
-  change	to change 1)pilot or 2)faries. First pick your pilot then 
-		pick the robot you want him/her to pilot. Pilots can only 
-		goes to the robots in the series they are under. For example,
-		Amuro can only pilot Real Robots. Note: Your starting robot 
-		can only be piloted by either your character or your lover 
-		or co-star.
-
-  Sell	to sell unwanted robots. Not all robots can be sold.
-
-  Next	go on to next stage.
-
-2) Ability screen explanation
-
-	The ability has three parts if you choose this option during map. The
-first one is robot, second is pilot, and last is weapons.
-	Here's the explanation of ability screen for:
-
-	Robot
-
-  Upper-middle right	items equiped
-
-  lower left		Robot's stat information.
-    Area	The places the robot can go (except water, which is never 
-		shown unless the robot is made for wate combat)
-
-    # of S	The number of squares that the robot can travel during a 
-		move. When on ground, hills and etc. cost additional squares.
-    Mobiltiy
-		The robot's mobility.	
-
-    Armor	The robot's armor.
-
-    Max
-    Stat	The max stat for robot.
-	
-  bottom center		the left one is telling whether the robot have a 
-			shield.
-			the right one is telling the size of robot. Smaller 
-			robot has dodging advantage.
-
-  bottom-upper center	special ability of robots. Like Transform, combine,
-			separate. 
-
-    After-image	special features of Aura Battlers, F91 and the three 
-		different Geta 2 that decrease enemy's hit percentage
-		by half if pilot's morale is 130 or up.
-
-    beam 
-    barrier	There are four types of beam barrier.
-
-      1) Beam coating	good for against beam weapons with less than 1200
-			damage.
-
-      2) I - Field	good for against beam weapons with less than 2000
-			damage.
-
-      3) Aura barrier	good for 3000 or less.
-
-      4) Beam barrier	unknown.
-
-    HP recover	Percent of HP recovery after every turn.
-
-  bottom right		The robot's grade at each terrain. Air, land, water 
-			and space. A dash means it cannot go there. From A - 
-			D. With A being the best and D being the worst. This 
-			grade will be changed if the pilot's grade is 
-			different at each terrain.
-
-	Pilot's screen
-
-  Top left		Character's name and below it, the robot 
-			series that pilot can use.
-
-  Top right 		level and moral. The higher the morale, the more 
-			damage the robot can inflect and stand. Some weapons 
-			require a certain level of morale.
- 
-      +1  after every attack connected on enemy or enemy connected on robot.
-      +5  every enemy killed.
-      +1  every team member kills an enemy.
-      -1  every team member killed by enemy.
-      -5  after boarding battleship.
-      -10 after resupply either by "magic" or robot.
-
-  Middle left		The amount of MP currently and max.
-	
-  Bottom left		The "Magic" the pilot can use. Each pilot has a max 
-			of six.
-
-  Bottom middle		Experience needed to advance to next level.
-
-  Bottom-middle right	Number of enemy killed.
-	
-  Right bottom		The pilot's grade at each terrain.
-
-  Middle		Pilot's ability
-    top left	Close range attack. Pilot's rating at close range attack. 
-		100 means normal.
-
-    bottom left	Long range attack.
-
-    middle up	Dodging ability. The mobility of the robot and the pilot's 
-		rating is presented here. The rate of robot's dodge 
-		depending on robot's size, pilot's dodging ability, 
-		mobility and max. The max is the max number that the robot 
-		can achieve. For example, even if Amuro has 180 dodge and 			robot has 50 mobility, but if the robot has only 220 max, 
-		that's the level that the dodge rate will based on. The 
-		over max stat will be shown in red.
-
-    middle down	Aiming ability. Almost same as above except it's on 
-		percentage of hitting your enemy.
-
-    top right	Sense(?). Usually higher numbers means higher dodging 
-		ability. When 130 or higher and max is 130 or higher, 
-		pilot can move twice.
-
-    bottom 
-    right	Skill level. The higher the number, the higher chance of a  
-		critical hit (double damage). Also used in with "mercy" 
-		magic. Also the higher the skill, the less likely this 
-		pilot will suffer a critical hit.
-
-    Center 	The pilot's special ability. Not all pilots have special 
-		abilites.
-
-      Newtype	(all Japanese characters) Amuro, Char, and other pilots 
-		from the Gundam Series (except for Kou) fit in this 
-		catgory. Their Piloting skills are exceptional and they 
-		have the ability to use Newtype weapons such as Funnels 
-		and Fin Funnels. They were also able to move twice quicker, 
-		as all Newtypes can move twice ranged from level 33 to 
-		level 38 at the latest.
-
-	Enhanced
-	Human	(4 Chinese character or Kanji) Like Four Murasame. An 
-		Artificial Newtype. Same abilities as newtypes.Enhanced 
-		Humans are normal Human beings that have been Genetically  
-		altered so the human will have newtype abilities even 
-		though that human is not a newtype.
-
-	Shield
-	blocking
-	 	(with 2 Kanji at back) the number behind it indicate the 
-		rate that shield (if any) be used to reduce damage by 
-		half.
-
-	Cutting(?)
-		(with 1 Kanji at front) the number behind it indicate the 			rate that sword be used (if any) to cut solid projectile 
-		like missiles, funnels, incom, or clash sword. Receive no 
-		damage after attack.
-
-	Aura 
-	Senshi	(3 kanji) Pilots like Shou in Aura Battler series. Ability 
-		to use the Aura and Hyper Aura cut.
-
-	Potential
-		(2 kanji) Founded in almost every Super Robot pilot. 
-		Double the rate of critical hit if only 1/8 HP left.
-
-
-	Weapons screen.
-
-  top left	page number/max page
-	
-  middle left	Weapon's name.
-
-      B		means beam type weapon.
-
-      MAP	means can hit several enemy at once. (all the kills 
-		won't increase morale).
-
-      P		Can be used after movement. (after movement, only close 
-		combat weapons can be used if next to enemy unless it's P 
-		weapons.)
-
-  middle middle	Attack power
-
-  middle-right	Range. All weapons with only 1 range is close range 
-		weapons.
-
-  middle right	+/- hit rate. Some weapons has a higher hit rate than 
-		others. Range from -30 to +35.
-
-  bottom three rows	weapon's usage.
-
-      first row	left: ammo remaining. right the grade of weapons on each
-			terrain.
-
-	second row	left: morale requirement. right: EN consumption.
-
-	last row	left: special ability requirement. right: +/- 
-			critical hit rate. Range from -10 to +30.
-
-
-3) Complete "magic" list and brief description
-
-	I am listing the "magic" in the order they appear in the "magic" list
-in the "magic" menu. It start from the top left and it goings down then to 
-the right, until it reaches the bottom right. Note: "Miracle" does not have 
-explanation in Japanese in the game since it is suppose to be a secret.
-
-  HP1		Recover self HP by 1/3.
-
-  HP2		Rcover self HP fully.
-
-  Flash		100% dodge for one enemy attack.
-
-  Speed Up  	+5 squares for current move.
-  
-  Hot Blood 	100% critical hit for one attack.
-
-  Always 
-  Hit		100% hit for one turn.
-
-  Concent-
-  rate  	+30% dodge and aim for one turn.
-
-  Trust		Recover one robot HP by 1/3.
-
-  Pressure 	Stop one enemy that has a lower level from moving for 
-		one turn.
-
-  Mercy		If has HIGHER skill level than enemy, then the attack will 
-		leave the enemy with 10 HP if that attack is enough to kill 
-		the enemy. Useful for getting weak team member to level up.
-
-  Motivate  	Increase self morale by 15.
-
-  Lucky		Double amount of experience and money for one chance (means 
-		one chance of pilot getting any experience. So if enemy 
-		attack you and you block, the lucky will still be there but 
-		if you attack and you miss, the lucky will be used up.)
-
-  Resupply	Completely recover one of your team's EN and ammo.
-
-  Friend-
-  ship		Recover all team member HP by 1/2.
-
-  Love		Recover all team member HP fully.
-
-  Anger		Cause damage from 10 to 1000 on all enemy on map.
-
-  Awaken	increase movement points by one. (move one more time during 
-		your turn.)
-
-  Rally		Increase morale of all robots standing on top, left, right 
-		and bottom of the pilot that use "Rally" by 10.
-
-  Move
-  Again		Let one team member that's on top, left, right or bottom of 
-		the pilot that uses it and that has already used up his/her 
-		movement points to move again.
-  Resur-
-  rection	Let one dead team robot revived. Morale back to 100 and is 
-		choosed among dead team robot.
-
-  Invisible 	Let one's robot be invisible to enemy so enemy cannot attack 
-		you but you still can attack enemy.
-
-  Exhaust	Exact opposite of Rally. Decrease morale by 10.
-
-  Self-
-  destruct  	To kill oneself. In process, inflict same amount of your HP 
-		on robots on top, left, right, and bottom of your robot. For 
-		example, if you have 4,000 HP and you use this "magic", all 
-		four surrounding robot will suffer 4,000 damage, no matter 
-		how thick their armor are.
-
-  Detection 	To get information about the enemy without having to fight 
-		it first.
-
-  Confusion
-  (?)		Cause all enemy on map at this moment to decrease their 
-		hitting percentage by half.
-
-  Search	To find one hidden item on map.
-
-  Don't 
-  move(?)	Cause all robots on its range to decrease their # of squares 
-		of their current move by half.
-
-  Iron
-  Wall		Double self armor for one turn.
-
-  Spirit	Triple attack power for one attack.
-
-  Miracle	See trick section.
-
-
-4) Very brief Character's guide
-
-	This section is designed to help people with no Gundam or Heavy 
-Metal, etc. knowledge to know the different pilots by name. Some people might
-know their name in languages other than Japanese or English, since shows like
-Gundam is shown in Hong Kong and other places, so people their don't know 
-their name in English, so I write this part and now they will be able to 
-tell apart Amuro from Char.
-
-		Gundam Series (Do I need to explain???)
-
-  Amuro Rey		Pilot of Gundam, Nu (Greek letter that look like a V)
-			Gundam
-	This guy should need no introduction, since anybody that watches the 
-show Gundam should know him by now. He is one of the quickest pilot to be 
-able to move twice (level 33) and the quickest pilot to get "Spirit". This 
-Newtype is the most balance of them all, but in this game he lack leadership 
-and he is pretty indecisive since he still cannot choose between Chien and 
-Beltorchika.
-
-  Quattro Bajina	Pilot of Type 100 (The gold color MS with the MAP 
-			weapon)
-
-	This blond with the sunglasses is actually Char Aznable, so every 
-Gundam fans should know him. He is pretty slow comparing him to Amuro, but 
-he has the highest long range and skill stats among MS pilots. This newtype 
-has leadership ability, that's why he might leave your team later.
-
-  Camille Vidan	Pilot of Zeta Gundam
-	The blue haired main character from Zeta Gundam is back, and he is 
-still as good as ever, although he don't have "Lucky", he stats are still 
-very high and he is able to move twice at level 33. His romance with the 
-Enhanced Human Four will ultimately be decided in this game...
-
-  Judo Ashita	Pilot of Double Zeta Gundam
-	The always happy Newtype is back, and his attack power is still very 
-high. He is also able to move twice at level 33. All of his friends won't be  
-back as backup pilots, but Elpe Puru and Puru Two might make an appearance 
-later on in the game...
-
-  SeaBook Arno	Pilot of Gundam F91 (The F is pronounce formula)
-	This guy is probably the worst among Newtype Gundam pilots, as he can
-move twice at level 34 and his stats are pretty low, but with the power of 
-F91, he is still one of your best pilots. His girlfriend Cecily Fairchild 
-will make an appearance if you let somebody die...
-
-  Kou Uraki		Pilot of Gundam GP01Fb and GP03 Dendrobium
-	This non-Newtype is probably the best among regular MS pilots. He may
-be shy around girls and dislike carrots, he still has a pretty high skill 
-level and have "Spirit" and can move twice at level 41. If he could just 
-have "Concentrate"....
-
-  Anavel Gato	Pilot of Gundam GP02A Physalis and Neue Ziel
-	The favorite villian from Gundam 0083 is back and he is as good as 
-ever. The "Nightmare of Solomon" has the second highest skill and long range 
-level among MS pilots. It will be a tough choice between Char and Gato, but 
-with the prospect of getting the Atomic MAP weapon is too much to resists...
-
-  Christina Mackenzie	Pilot of Gundam NT-1 Alex
-	This lovely looking test pilot (at least to Bernie) is back and she 
-is still as useless as she was in the 3rd Super Robot Wars. But with the 
-Gundam and some pretty useful "magic", Chris might not be as useless as you 
-think..
-
-  Bernard Wiseman	Pilot of Zaku
-	That's right, this pilot uses a Zaku! This pilot is still pretty 
-useless, but hey, Bernie comes with Chris, which means....
-
-  Roux Rouka
-	Roux is Judo's girlfriend, and she will be a backup pilot depending 
-on one of the crossroad. Her stats might be low, but at least she has "Lucky"
-and "Resupply", and afterall, she is still a Newtype...
-
-  Katsu		Pilot of G-Defensor
-	Another pretty useless Newtype, but the MA he pilot is extremely 
-useful and he is the only one that can convice Sara to join your team if you 
-are on the Real Robot side....
-
-  Keyla Sue		Pilot of Jegan
-	Keyla is back, depending on crossroad, and she is still just average 
-among MS pilots. Well, at least he is better than Hathaway...
-
-  Hathaway Noah	Pilot of Jegan
-	Hathaway is back, just like Keyla, but at least he is a Newtype. Hope
-he has gotten over his obession over Quess...
-
-  Four Murasame	Pilot of Psycho Gundam
-	The love interest of Camille is back. This Enhance Human don't have 
-very high stat level, but she can move twice at level 35 and can be use as 
-second class pilots...
-
-  Rozamia Badam	Pilot of Psycho Gundam Mark II
-	This emotionally unstable Enhance Human is back. She has less useful 
-"magic" as Four, but some of her stats are higher and she does get your team 
-more experience, just hope she don't cause too much trouble for Camille...
-
-  Elpe Puru and
-  Puru Two	Pilot of Quebeley Mark II
-	These two asexually produced Enhance Human are back. Although their 
-stats are not very high, but at least the Quebeley Mark II are quite useful. 
-If only Judo can find them...
-
-  Quess Pariah	Pilot of Jagd Doga or Jegan
-	This girl is a pretty powerful Newtype, and her MS is very good. But 
-how can we find her? Maybe Amuro can help....
-
-		Heavy Metal Series (The series whose robots has P weapons, 
-				    beam coating and beam weapons)
-
-  Mylard	Pilot of L Gaim, L Gaim Mark II
-	The major character of the series has finally make it to the Super 
-Robot Wars series, and he is extremely useful because of his extremely high 
-long range attack, move twice at level 36, and useful robots. Not to 
-mention the fact that two girls are always fighting over him. I wonder where 
-his cousin, the girl that Mylard was suppose to marry, is......
-
-		Aura Battler Series (The series whose robots has after-image 
-				     and Aura and Hyper Aura cuts)
-
-  Shou		Pilot of Dunbine
-	The major character from the series is back from Super Robot Wars EX,
-and he is still extremely useful since he has a pretty good close range and 
-long range stats, able to move twice at level 36, and some useful magic. If 
-he could only have more SP ......
-
-  
-
-
-5) All the crossroads and details on some hard-to-get robots and pilots
-
-	There are quite a few crossroads in this game. Even if you played the
-two paths of your robot, you will still miss a few different stages and some 
-robots and pilots, so this section will detail all the different crossroads 
-and in the process, listing all the robots that you'll get in the different 
-crossroad. In the end of each crossroad, I will add comments on whether you 
-should pick this crossroad over the other one. I am excluding the 
-differences in Super robot side and Real robot side because you should know 
-them by now.
-
-
-  1)  During second stage (or first stage for SFC version)
-
-	If you finish this stage in double digit number of turns (or 8 if SFC
-version), you will be sent to a different sequence of stages than if you 
-finish in single digit number of turns. In the single digit number of turns, 
-you will be presented will less enemy to fight, and you will have one 
-additional robot to appear on Encyclopedia. You will have Hathaway as 
-extra pilot after stage 7. If you finish second stage in double digit number 
-of turns, you will have Keyla instead as extra pilot. You have more 
-enemies to fight and Christ and Bernie will join you during stage 7.
-
-Advice:	For this crossroad, you should choose the double digit crossroad 
-		because it yield more experience and more robots, but it uses
-		up more turns.
-
-  2) Before stage 7 or stage 6 (or 6 and 5, respectively for SFC version)
-
-	Depending on the 1) path, you will choose this path before different 
-stages. Before the stage, someone will ask you whether you have a 
-girlfriend/boyfriend (lover?) or not, and if you ask yes, he/she will start 
-as a Titan and you will have to fight a sea monster in stage 8. You will be 
-allowed to edit her name. If you want him/her to join you, you have to 
-convice him/her to join you in stage 23(or 22 in SFC) if you choose to 
-go to space while in stage 24 (or 22 in SFC) if you decide to stay on 
-earth. If you say no, a co-star of the opposite sex will be choosen for you 
-and will join you as extra pilot after this stage. You will instead be 
-helping combattler V in stage 8. 
-
-  
-Advice:	Take your pick. Depend on whether or not you need the extra 
-		pilot right now. The second pick (no girl/boy-friend) uses up
-		more turns.
-
-  3) After stage 10 (or stage 9 in SFC version)
-
-	This crossroad asks you to whether to cross the Japanese ocean or 
-Pacific ocean, with each one causes a different following stage. If you 
-choose the Japanese ocean, you will get Katsu, but there's less items and 
-experience. If you choose Pacific ocean, Roux will join you instead.
-
-Advice:	Japanese ocean all the way because of the usefulness of G-
-	Defensor (it can be combined with Gundam Mark II) and the 
-	ability to convice Sara to join you in stage 21(20) if in 
-	Real Robot side. But the other path yields more items and 
-	more experiences and uses up a little less turn (but 
-	Dancougar team cannot be used).
-
-  4) After stage 12 ( or stage 11 in SFC version)
-
-	This crossroad asks you whether you want to help one of your team 
-member to find his lover. If you don't go with him, you will fight a boss 
-and in the process decide a crossroad in stage 35 or 36. 
-
-Advice:	Don't go with him. Since going with him uses up some turns and 
-	that part of the team don't have "Search" so you will be missing 
-	a lot of items, no to mention it also by default pick a worse 
-	crossroad for you later on.
-
-  5) During Stage 13 ( or stage 12 in SFC version)
-
-	If you decided not to help find one of your team member's girlfriend,
-you are presented with two choices at this stage. If you manage to kill the 
-boss within 8 turns, you will be in a different stage 35(34) than if you 
-didn't kill the boss.
-
-Advice:	Kill him. By killing him, you will be able to get the I-Field 
-	generator at stage 35(34) and more items. But the other path 
-	yields a better storyline.
-
-  6) During Stage 14 (or stage 14 in SFC version)
-
-	This crossroad will decide which Aura Battler battleship you're going
-to get in stage 18(17). If Shou don't fight the woman in 3 rounds, she will 
-then join you and you will get the battleship with no MAP weapons and two 
-faries, along with the woman (she does have Aura Senshi skill at level 15). 
-If you fight her, you will get a battleship with MAP weapons and two pilots 
-along with two extra robots. 
-
-Advice:	Kill her. The battleship with MAP is more useful and one of the 
-	extra pilot can be used in stage 34(33) (the one which Four is 
-	in your team) to get an extra pilot and robot that has Rally. 
-	She is extremely useful near the end of game because you will 
-	have to split up in two teams and she is one of the only four 
-	member in one team that has Rally, so take your pick carefully.
-
-  7) After stage 18 (or stage 17 in SFC version) 
-
-	Before stage 19, you will be asked which way should you go to invade 
-enemy's base. For the first choice, the map is longer, and the second choice 
-is shorter.
-
-Advice:	Second one all the way. The items and amount of enemies are the 
-	same, so why bother go the longer way!
-
-  8) After stage 23 (or stage 22 in SFC version)
-
-	After the stage, Bright will ask you whether you want to go to space 
-or stay on earth. If you go to space, you go along with Amuro, Fa, Kou, 
-Keith, Dancougar team, Jumbo3 team, Raideen team and Heavy Metal members. 
-If you stay on earth, you go with the rest of the team. The following four 
-stages is different depending on which way you pick.
-
-Advice:	Space is a must for Real Robot side because it's the only way 
-	to convice Mylard's cousin to join you by letting him attack 
-	her. However, on earth you can see the new Geta and your robot 
-	if you're on Super Robot side transform.
-
-P.S. After stage 30 (or 29 in SFC), if you're on the Super Robot side, your 
-stage number will be increase by one because stage 30(29) has two parts but 
-the game still counts as two stages. Make sure to minus 1 from the stage 
-number from that on so the stage number will be the same as mine.
-
-  9) During Stage 32 and stage 33 (or 31 and 32 in SFC)
-
-	In these two stages, you are presented with a tough choice. If you 
-convice Four to join you, you will have a chance at convicing an additional 
-AB pilot and less enemy to fight later on. If you killed her, you can get 
-the EX-Superior Gundam (if you have Superior Gundam. Note: Remember, in SFC 
-version, you have to have the Guntank and in Real Robot side to get Superior 
-Gundam while in PS version, you only have to be in Real Robot side.) and a 
-chance to convice Rozamia to join you at stage 34 and 38. In stage 38, you 
-have to kill the Alpha Aziel (the hugh MA with funnels) first before using 
-Camille to convice Rozamia to join you. After the stage, the doctor will ask 
-you whether you want her to be one of your backup pilots.
-
-Advice:	If you're in Super Robot side, convice Four because you will 
-	need the extra MS pilot and the extra AB pilot. If you're in 
-	Real Robot side, you might want the EX-S Gundam and more enemies 
-	to fight.
-
-  10) During Stage 33 (or 32 in SFC)
-
-	Before this stage, Char will ask you whether you want to help out 
-protecting General Brex Forra. Make sure to say yes (the first 
-option) because I personally like to make my own decision instead of letting 
-the computer doing it for me. During turn 3, the computer will ask you 
-whether you want to escape to the right or the left. If you choose left  
- (the second option), Brex will be killed and Char will leave your team. 
-This will also decide which stage 40 you are going. Without Char, Cecily and 
-her MS will join you, and you have a chance of convicing Gato to join you if 
-he survive until stage end. With Char, if you protect the NPC until the end, 
-you will get a Sazabi instead (Char's MS with funnel).
-
-Advice:	This one is really up to you. I personally like to let Char go 
-	because GP02A has an Atomic weapon, and using it to finish the 
-	game is much easier for the PS version. 
-Note:	I am not sure if PS version is the same but in order to get the 
-	Atomic weapon in the SFC version, you have to convice Hamaan 
-	Khan with Judo later, which can only happens if you're on Real 
-	Robot side.
-
-  11) During Stage 39 (or 38 in SFC)
-
-	This crossroad is pretty hard to get to. If you're on Super Robot 
-side, just go on to the next because it's not possible to choose unless you 
-are on Real Robot side. About turn 3 or 4, there will be some Heavy Metal 
-enemies appears, and Mylard's cousin is among them. If you use Mylard to 
-atttack her in stage 27(26), use him to convice her in stage 30(29), and 
-use him again to convice her in this stage, she will join you. After you 
-convice her, you can then convice the purple hair guy to join you with 
-Mylard. By convicing him to join you, you will be going to a different 
-stage 41(40). With him, you can then convice Puru and Puru Two to join you 
-with Judo.
-
-Advice:	Go with it if you're on Real Robot side. This way is much faster 
-	and easier than without him. Also one of the only ways to get 
-	Atomic weapon for GP02A.
-
-  PS) During stage 40 (does not really apply to SFC version)
-
-	During this stage, a girl will attack you and one of your team member
-(the one that can transform) will recognize her and say something must be 
-wrong. If you convice her, then this stage will end after you kill the three 
-bosses, and you will have an extra stage to fight with just him, her, and 
-one other girl. 
-	In SFC version, convicing her will add the other two pilots that 
-help you but didn't join you in stage 35.
-Note: If you does go to the extra stage, make sure to minus 1 to follow 
-	my stage numbering system.
-
-Advice:	This stage is pretty useless but it does gave them some 
-	experiences and you don't have to fight three more battleship 
-	and enemies during stage 40 so it would be easier to protect 
-	the NPC.
-
-  12) During stage 41 (or 40 in SFC)
-
-	This crossroad lead to another crossroad, but only accessible in Real
-Robot side. If you convice Puru and Puru Two (only need to convice one of 
-them), after the stage is complete, they will ask you whether or not you 
-want to go with them to get a little girl. By going with him, you have a 
-chance of convicing Hamaan with Judo. In that stage, you have to use Judo 
-to convice Hamaan before attacking any of the enemies. After that, kill as 
-many as you want without killing Hamaan. With only four enemy remaining, 
-Hamaan will retreat and you will get the Atomic weapon in stage 44(43). If 
-you don't follow Judo and Puru, you will go to the moon and fight the Heavy 
-Metal boss, but it is not very hard. If you don't convice Puru to join you 
-at all or if you're on Super Robot side, you will be sent to the hardest 
-stage 43(42) of the possible 3.
-Note:	If you decide to follow Judo, your stage number will increase by 1, 
-	so make sure to minus 1 afterward to follow my stage numbering 
-	system.
-
-Advice:	Follow them at all cost because it's much easier, not to mention 
-	able to use atomic weapon. But you might not want to follow them 
-	if you just want to cross all crossroads.
-
-  13) After stage 44 (or stage 43 in SFC version)
-
-	If you finish stage 44 with a total of 326 turns(?) or less (319 for 
-SFC version), three new pilots will join you (some of your team member will 
-leave) and you won't be given a choice to fight these guys in stage 45. If 
-you finish with more than 326, during stage 45(44), the woman will ask you 
-whether you want to fight them. By saying yes (first option) both times, you 
-will fight them instead of the last boss. This option will result in a bad 
-ending. The stage 45 with less than 326 turns is harder in PS version 
-because the enemies are very spread out and you have to kill them all before 
-the last boss will appear on the map. For SFC version, the boss will always 
-be there so it's a piece of cake. 
-
-Advice:	Depending on your mood. In order to make it in less than 326
-	turns, it takes practice and lose some items and enemies in the 
-	process, not to mention it was a lot harder. Unless you have 
-	GP02A and its atomic weapon and some experience with this game, 
-	I strongly discourage choosing that. Note: By choosing to 
-	fight the guy with two girls instead of fighting the last boss, you 
-	will have two more robots appear in the Encyclopedia.
-   
-
-
-6) "Miracle" trick, hidden characters and some hints
-		 
-	Miracle. This is the ultimate "magic". It increase morale by 30, 
-100% hit, flash, lucky, spirit(triple damage), speed up and complete HP 
-recover for only 40 MP. Only the AB farie for Shou and your character can 
-have this magic. For the AB farie, she has to reach level 56. For your 
-character, you have to input a special birthday and bloodtype. Even "Spirit" 
-require special birthday. The easiest to get is 9/2, O, which gives miracle 
-at level 25, but you will have no "magic" before level 25 and when you do, 
-some of your "magic" is pretty useless, but "Miracle" is all that matters.
-note: 	This only applies to PS version. In SFC version, you will have speed
-	up, flash, concentrate, lucky, spirit and Miracle. You get spirit at 
-	around level 20 and miracle at level 24.
-
-
-	There are two hidden characters (well, if you looked at Deluxe 
-Character Encyclopedia, you should know them by now) in the game (maybe more 
-in PS, but I didn't heard there's more). One is Quess and other is a farie 
-for AB series. In order to get them, you have to get a certain pilot on 
-certain square of a certain stage.
-note:	Since these hidden characters doesn't effect storyline at all, make 
-	sure to get them, especially the AB farie
-
-	AB farie	stage 17, Shou has to be in square 40 down and 2 
-		to the right from the upper left hand corner of map. She will
-		present three choices for you after the stage:
-		first and second choice yields a replacement for Dunbine, 
-		while the last one is leave Dunbine alone. The first and 
-		second choice AB don't have any long range weapons, but they 
-		have pretty high mobility, HP, EN and 10% HP recovery. The 
-		first one is a little more agile while the other has higher 
-		armor and HP.
-	advice:	Take the first one. Since it has higher mobility, you can let
-		the weaker pilots use it and still manage to get to 255.
-
-	Quess:		Stage 30, Amuro has to be in square 6 down and 8 to 
-		the right from the upper left hand corner of the map. She 
-		will give you two choices after the stage:
-		First one is Dera Joga(?) (The MS with funnel) and the second
-		one is just Jeagon (GM). The choice is pretty obvious. 
-	note: 	This stage is only accessible if you follow the real robot 
-		side.
-	
-	
-	Some hints:
-
-	1) If you lost a stage without saving at all, you will have to be 
-back at that stage again, but all the experience and money will be intact,
-but the hidden items won't be there. If you are low in money and experience, 
-you can use this to grab some money and experience, but it still counts 
-toward the total turn counts.
-
-	2) Always, I mean always kill a battleship with "Lucky", even if it's
-piloted by a nobody because it yields lots of money.
-
-	3) There are two planes in the game that is mainly used for resupply,
-and you can choose from the few pilots. Both planes should be piloted by the 
-girls because they have the most useful magic. For the one in Radieen, pick 
-the girl with the lowest level because she has lucky, resupply and love, not 
-to mention that she can move twice at level 38. As for the other plane, the 
-girl has rally, which is extremely useful in later stages, but she has to be 
-at level 32.
-
-	4) If you press the top buttons and select and start together, the 
-game will be rebooted to the main menu. Useful if you don't want to press 
-reset all the time, especially in PS version.
-
-	 
-7) Closing comments
-	
-	Finally, I would like to thank Phillip L Yee(philyee@value.net) for 
-helping me translate some of the names and stuff and for correcting some of 
-my mistakes in the first version. I also need use thank the guys from the 
-Gundam Project(http://gundam.anime.net) since I use many of the name 
-translation for the Gundam series from there. 
-	For those of you that only played the SFC version and really like 
-the old anime shows, make sure to at least borrow the PS version because 
-those original voice actors and actoresses really make a difference. Did you 
-know that Inoue Kikuko, the voice actresses for Belldandy and Tendo Kasumi, 
-is actually doing the voice of one character in the game! 
-	I know this FAQ really sucks, but this is my very first attempt at 
-writing one, so bare with me. As I said before, E-mail me any comments or 
-suggestions to me. See you (maybe) later!
-
--Edmund Chiu
-edf91@worldnet.att.net
-		
-
-	
-
-	
-	
-
-	
-
+
+	The 4th Super Robot Wars Scramble Mini-FAQ Version 2.0
+
+Here's the explanation or translation of most of the command in the game, as 
+requested by someone. I didn't write a complete FAQ because 1) I need time 
+2) I am not Japanese, so I need to know all the names and stuff. 3) Nobody 
+seems to have this game....
+
+This FAQ should work with the 4SRW for SFC, but the regular instructions are 
+for the PS version, and the SFC version will be in (), so be careful!
+(I write the regular instructions for the PS version because that's the 
+version I have! But don't worry, I played and beat the SFC version too, so 
+the instructions will be correct.)
+
+If you feel or know that something is wrong in here, just E-mail me what's 
+wrong and I will fix it. If you have any comment or criticism is welcomed. 
+If you really want a full blown FAQ, just tell me and try to help me by 
+translating some of the robots and pilots name and stuff....
+
+Table of Content:
+
+1) Command or menu lists.
+
+2) Ability screen explanation.
+
+3) Complete "Magic" list and brief description
+
+4) Very brief Character's guide
+
+5) All the crossroads and details on some hard-to-get robots and pilots
+
+6) "Miracle" trick, hidden characters and some hints
+
+7) Closing comments
+
+
+1) Command or menu lists.
+
+	When you first started up your game, after the CG intro, you are 
+presented with 4 choices.
+
+  Start	This will start the game at very beginning
+
+  Load	This will start the game between stages. There are several (or 
+		two if SFC version) spaces for you to save the games in.
+
+  Continue	This will start the game during the stage you saved.
+
+  Option	Go to the option screen.
+
+
+			Option screen (from the main menu)
+
+  Sound		pick from Stereo or Mono.
+
+  Sound Test	listen to the various BGM from the game		
+
+  Karoke Mode	Watch and listen to the various Music video of several 
+			anime series.
+
+  Demo mode		Watch the transformation/combination video from the 
+			game. Only those you have seen (during the game) 
+			will be presented.
+
+  Delete		Delete one of the saves from storage.
+
+  Format		Clear all the saves from storage.
+
+  Deluxe Character
+  Encyclopedia  	a brief character description on every character 
+			that appears in game.
+
+  Illustrated 
+  Robot 
+  Encyclopedia	a brief robot description on every robot (almost) that
+ 			appears in the game.In order for it to be shown, you 
+			have to 1) have the robot appears on the map during 
+			the game and 2) save either during the stage or 
+			afterward. The percentage show the percent of robots 
+			you have seen.
+
+
+	After you start from beginning, you have a choice of editing "your" 
+character in the game. If you decided to edit, keep in mind that only the 
+birthday and bloodtype counts toward the "magics" that your character will 
+have. Each sign and bloodtype will result in different sets of "magics" and 
+some specific combination of bloodtype and birthday will yield 
+special magic." You can edit the name, sex, face, personality, 
+birthday/Bloodtype,
+
+and pilot type.
+
+	Personalities: (Starting from top left going across to the right)
+
+1)  Hot Blooded with a strong sense of Justice
+2)  Logical but has and affinity for the opposite sex
+3)  A Little Weird
+4)  Cool and nihilistic
+ 
+Note: Personalities don't really change much in the game other then your 
+characters dialogue (i.e. the way he or she talks and responds to other 
+characters. But if you don't know how to read Japanese , then it doesn't 
+really matter)
+ 
+Choose Pilot Type:
+
+Robot types determine which Final Robot Your Character will pilot eventually.
+The robot you start with will also be different third weapon and minor HP, 
+EN, etc. differences.
+
+Real Robot pilot: will give you a mobile suit. It has a nice long range
+weapon. You will start with "Cutting" special ability and gain Newtype about 
+level 20. The robot you start with will have less HP, EN, but will have a 
+long range weapon.
+
+Super Robot Pilot:  will give you a huge transformable Robot with almost no 
+manuverblity but powerful Ki/moral attacks. You will start with "Cutting" 
+and Potential special ability. The robot you start with will have more HP, 
+EN and have a pretty powerful close range weapon.
+	
+	Map Screen
+
+	On the map screen, when you press the cancel botton on empty (without
+robot) squares, you can see the dodging and aiming enhancement on the robot 
+if a robot is there. When you press accept botton on empty squares, the main 
+map screen will appear.
+
+  Turn end	end your current turn and switch to enemy's turn.
+
+  Team list	List your robots on map according to either level or HP (use 
+		R to change). The bar in left indicate either EN or HP, with 
+		default being EN. Use L to change from EN to HP. By selecting 
+		from the list, your cursor will now point to the 
+		corresponding robot. the E next to the bar indicate that the 
+		robot has already used up all his movements point.
+
+  Whole Map	Display the whole map with each robots being represented by a
+		square according to if they're enemy or friends.
+
+  "Magic"	List all the "Magic" that your pilots can use. The red ones 
+		are those that you don't have the MP for. With your cursor 
+		over the "Magic", you will get an explanation of what it does
+		(except for one) on top. By selecting it, you will be 
+		presented with the list of pilots that can use it and the 
+		pilot's remaining SP.
+		Selecting off that will lead you to his/her robot directly.
+
+  Command	Change the commands issue during enemy's turn. The first 
+		option is to change all pilot's command at once. Each pilot 
+		is represented on menu except Non Player Characters(NPC). 
+		First choice is user decide, second is as long as you won't 
+		be killed, you will attack back. Third choice is always dodge
+		or block (this decision is based on mobility) when your enemy
+		is higher in levels,otherwise attack. The last option is 
+		always block or dodge.
+
+  Option		
+
+  Objective	The objective of completing this stage. Usually is the defeat
+		of all enemy on screen or the destruction of the boss.
+
+  Save		Save during this stage. You only get one spot. That means 
+		that even if you save seperately on stage 2 and 3, you will 
+		be brought back to the last save.
+
+
+	If you let the cursor on robot and press cancel, you will be shown 
+the enemy's HP, EN, Pilot's and robot's name, and moves remaining. The moves 
+remaining is shown will a W. Each W represent a movement point. If you 
+haven't use "Detection" or fight that robot yet, the HP, EN and moves won't 
+be shown. If you press accept, a normal menu will appear if that robot have 
+moves remaining or the ability screen will appear.
+
+	Normal Menu ( since this menu's order and content is different  on
+ 			some robots, you have to test for which one is which)
+
+  Move		move your robot.	
+
+  Attack		
+
+  Ability	go to ability screen
+
+  Magic	use magic
+
+  Ground/
+  Air/
+  underground/
+  underwater
+		to land/air/underground/underwater
+
+  Transform	To transform. Only a few robot can transform.  you will be 
+		presented with list of option or just transform if there is 
+		only one option.
+
+  Separate	To separate. Only a few robots can separate. Robots like 
+		GP03, Re-GZ cannot be combined after separation. 
+
+  Combine	To combine. Only a few robots can combine. For two robot 
+		combination, just move one over another. For more than two, 
+		move them right next to each other.
+
+  Item		If you have items, use it here.
+
+  Launch	Battleship only. launch robots from battleship. Only shown if
+		there's robot on ship.
+
+  Convince	Certain pilots can convince enemy pilot to join them. You 
+		have to know the storyline of the original show in order to 
+		guess who can convice who. Remember that not all of them will
+		join you right there, some will join you later or even needed
+		to be convinced twice.
+
+	After you beat the stage and intermission, you will be presented with
+the rest menu.
+
+  Save	Save current progress.
+
+  Combine/
+  Transform	To combine or transform robots.
+
+  Upgrade	Upgrade the robots on HP, EN, armor, mobility and max output.
+		You can only upgrade eight times on each stat and each 
+		addition upgrade cause is doubled. The list is sorted 
+		according to HP.
+
+  Upgrade
+  Weapons 	to upgrade the weapons of robots. Can only upgrade 8 times.
+		Some weapons cost more to upgrade than others. Each upgraded 
+		weapons increase damage by 200.
+
+  Special 
+  items		to put special items on robot to be either use in stage or 
+		enhance performance. These can be found in the map or after 
+		certain stages.
+
+  Inspect	Check out the robot or pilot's ability. Robot is the first 
+		choice while pilot the second. If you press accept during the
+		robot's ability screen, you will go to its weapon's screen. 
+		Robots are sorted according to HP, while pilots are sorted 
+		according to level.
+
+  change	to change 1)pilot or 2)faries. First pick your pilot then 
+		pick the robot you want him/her to pilot. Pilots can only 
+		goes to the robots in the series they are under. For example,
+		Amuro can only pilot Real Robots. Note: Your starting robot 
+		can only be piloted by either your character or your lover 
+		or co-star.
+
+  Sell	to sell unwanted robots. Not all robots can be sold.
+
+  Next	go on to next stage.
+
+2) Ability screen explanation
+
+	The ability has three parts if you choose this option during map. The
+first one is robot, second is pilot, and last is weapons.
+	Here's the explanation of ability screen for:
+
+	Robot
+
+  Upper-middle right	items equiped
+
+  lower left		Robot's stat information.
+    Area	The places the robot can go (except water, which is never 
+		shown unless the robot is made for wate combat)
+
+    # of S	The number of squares that the robot can travel during a 
+		move. When on ground, hills and etc. cost additional squares.
+    Mobiltiy
+		The robot's mobility.	
+
+    Armor	The robot's armor.
+
+    Max
+    Stat	The max stat for robot.
+	
+  bottom center		the left one is telling whether the robot have a 
+			shield.
+			the right one is telling the size of robot. Smaller 
+			robot has dodging advantage.
+
+  bottom-upper center	special ability of robots. Like Transform, combine,
+			separate. 
+
+    After-image	special features of Aura Battlers, F91 and the three 
+		different Geta 2 that decrease enemy's hit percentage
+		by half if pilot's morale is 130 or up.
+
+    beam 
+    barrier	There are four types of beam barrier.
+
+      1) Beam coating	good for against beam weapons with less than 1200
+			damage.
+
+      2) I - Field	good for against beam weapons with less than 2000
+			damage.
+
+      3) Aura barrier	good for 3000 or less.
+
+      4) Beam barrier	unknown.
+
+    HP recover	Percent of HP recovery after every turn.
+
+  bottom right		The robot's grade at each terrain. Air, land, water 
+			and space. A dash means it cannot go there. From A - 
+			D. With A being the best and D being the worst. This 
+			grade will be changed if the pilot's grade is 
+			different at each terrain.
+
+	Pilot's screen
+
+  Top left		Character's name and below it, the robot 
+			series that pilot can use.
+
+  Top right 		level and moral. The higher the morale, the more 
+			damage the robot can inflect and stand. Some weapons 
+			require a certain level of morale.
+ 
+      +1  after every attack connected on enemy or enemy connected on robot.
+      +5  every enemy killed.
+      +1  every team member kills an enemy.
+      -1  every team member killed by enemy.
+      -5  after boarding battleship.
+      -10 after resupply either by "magic" or robot.
+
+  Middle left		The amount of MP currently and max.
+	
+  Bottom left		The "Magic" the pilot can use. Each pilot has a max 
+			of six.
+
+  Bottom middle		Experience needed to advance to next level.
+
+  Bottom-middle right	Number of enemy killed.
+	
+  Right bottom		The pilot's grade at each terrain.
+
+  Middle		Pilot's ability
+    top left	Close range attack. Pilot's rating at close range attack. 
+		100 means normal.
+
+    bottom left	Long range attack.
+
+    middle up	Dodging ability. The mobility of the robot and the pilot's 
+		rating is presented here. The rate of robot's dodge 
+		depending on robot's size, pilot's dodging ability, 
+		mobility and max. The max is the max number that the robot 
+		can achieve. For example, even if Amuro has 180 dodge and 			robot has 50 mobility, but if the robot has only 220 max, 
+		that's the level that the dodge rate will based on. The 
+		over max stat will be shown in red.
+
+    middle down	Aiming ability. Almost same as above except it's on 
+		percentage of hitting your enemy.
+
+    top right	Sense(?). Usually higher numbers means higher dodging 
+		ability. When 130 or higher and max is 130 or higher, 
+		pilot can move twice.
+
+    bottom 
+    right	Skill level. The higher the number, the higher chance of a  
+		critical hit (double damage). Also used in with "mercy" 
+		magic. Also the higher the skill, the less likely this 
+		pilot will suffer a critical hit.
+
+    Center 	The pilot's special ability. Not all pilots have special 
+		abilites.
+
+      Newtype	(all Japanese characters) Amuro, Char, and other pilots 
+		from the Gundam Series (except for Kou) fit in this 
+		catgory. Their Piloting skills are exceptional and they 
+		have the ability to use Newtype weapons such as Funnels 
+		and Fin Funnels. They were also able to move twice quicker, 
+		as all Newtypes can move twice ranged from level 33 to 
+		level 38 at the latest.
+
+	Enhanced
+	Human	(4 Chinese character or Kanji) Like Four Murasame. An 
+		Artificial Newtype. Same abilities as newtypes.Enhanced 
+		Humans are normal Human beings that have been Genetically  
+		altered so the human will have newtype abilities even 
+		though that human is not a newtype.
+
+	Shield
+	blocking
+	 	(with 2 Kanji at back) the number behind it indicate the 
+		rate that shield (if any) be used to reduce damage by 
+		half.
+
+	Cutting(?)
+		(with 1 Kanji at front) the number behind it indicate the 			rate that sword be used (if any) to cut solid projectile 
+		like missiles, funnels, incom, or clash sword. Receive no 
+		damage after attack.
+
+	Aura 
+	Senshi	(3 kanji) Pilots like Shou in Aura Battler series. Ability 
+		to use the Aura and Hyper Aura cut.
+
+	Potential
+		(2 kanji) Founded in almost every Super Robot pilot. 
+		Double the rate of critical hit if only 1/8 HP left.
+
+
+	Weapons screen.
+
+  top left	page number/max page
+	
+  middle left	Weapon's name.
+
+      B		means beam type weapon.
+
+      MAP	means can hit several enemy at once. (all the kills 
+		won't increase morale).
+
+      P		Can be used after movement. (after movement, only close 
+		combat weapons can be used if next to enemy unless it's P 
+		weapons.)
+
+  middle middle	Attack power
+
+  middle-right	Range. All weapons with only 1 range is close range 
+		weapons.
+
+  middle right	+/- hit rate. Some weapons has a higher hit rate than 
+		others. Range from -30 to +35.
+
+  bottom three rows	weapon's usage.
+
+      first row	left: ammo remaining. right the grade of weapons on each
+			terrain.
+
+	second row	left: morale requirement. right: EN consumption.
+
+	last row	left: special ability requirement. right: +/- 
+			critical hit rate. Range from -10 to +30.
+
+
+3) Complete "magic" list and brief description
+
+	I am listing the "magic" in the order they appear in the "magic" list
+in the "magic" menu. It start from the top left and it goings down then to 
+the right, until it reaches the bottom right. Note: "Miracle" does not have 
+explanation in Japanese in the game since it is suppose to be a secret.
+
+  HP1		Recover self HP by 1/3.
+
+  HP2		Rcover self HP fully.
+
+  Flash		100% dodge for one enemy attack.
+
+  Speed Up  	+5 squares for current move.
+  
+  Hot Blood 	100% critical hit for one attack.
+
+  Always 
+  Hit		100% hit for one turn.
+
+  Concent-
+  rate  	+30% dodge and aim for one turn.
+
+  Trust		Recover one robot HP by 1/3.
+
+  Pressure 	Stop one enemy that has a lower level from moving for 
+		one turn.
+
+  Mercy		If has HIGHER skill level than enemy, then the attack will 
+		leave the enemy with 10 HP if that attack is enough to kill 
+		the enemy. Useful for getting weak team member to level up.
+
+  Motivate  	Increase self morale by 15.
+
+  Lucky		Double amount of experience and money for one chance (means 
+		one chance of pilot getting any experience. So if enemy 
+		attack you and you block, the lucky will still be there but 
+		if you attack and you miss, the lucky will be used up.)
+
+  Resupply	Completely recover one of your team's EN and ammo.
+
+  Friend-
+  ship		Recover all team member HP by 1/2.
+
+  Love		Recover all team member HP fully.
+
+  Anger		Cause damage from 10 to 1000 on all enemy on map.
+
+  Awaken	increase movement points by one. (move one more time during 
+		your turn.)
+
+  Rally		Increase morale of all robots standing on top, left, right 
+		and bottom of the pilot that use "Rally" by 10.
+
+  Move
+  Again		Let one team member that's on top, left, right or bottom of 
+		the pilot that uses it and that has already used up his/her 
+		movement points to move again.
+  Resur-
+  rection	Let one dead team robot revived. Morale back to 100 and is 
+		choosed among dead team robot.
+
+  Invisible 	Let one's robot be invisible to enemy so enemy cannot attack 
+		you but you still can attack enemy.
+
+  Exhaust	Exact opposite of Rally. Decrease morale by 10.
+
+  Self-
+  destruct  	To kill oneself. In process, inflict same amount of your HP 
+		on robots on top, left, right, and bottom of your robot. For 
+		example, if you have 4,000 HP and you use this "magic", all 
+		four surrounding robot will suffer 4,000 damage, no matter 
+		how thick their armor are.
+
+  Detection 	To get information about the enemy without having to fight 
+		it first.
+
+  Confusion
+  (?)		Cause all enemy on map at this moment to decrease their 
+		hitting percentage by half.
+
+  Search	To find one hidden item on map.
+
+  Don't 
+  move(?)	Cause all robots on its range to decrease their # of squares 
+		of their current move by half.
+
+  Iron
+  Wall		Double self armor for one turn.
+
+  Spirit	Triple attack power for one attack.
+
+  Miracle	See trick section.
+
+
+4) Very brief Character's guide
+
+	This section is designed to help people with no Gundam or Heavy 
+Metal, etc. knowledge to know the different pilots by name. Some people might
+know their name in languages other than Japanese or English, since shows like
+Gundam is shown in Hong Kong and other places, so people their don't know 
+their name in English, so I write this part and now they will be able to 
+tell apart Amuro from Char.
+
+		Gundam Series (Do I need to explain???)
+
+  Amuro Rey		Pilot of Gundam, Nu (Greek letter that look like a V)
+			Gundam
+	This guy should need no introduction, since anybody that watches the 
+show Gundam should know him by now. He is one of the quickest pilot to be 
+able to move twice (level 33) and the quickest pilot to get "Spirit". This 
+Newtype is the most balance of them all, but in this game he lack leadership 
+and he is pretty indecisive since he still cannot choose between Chien and 
+Beltorchika.
+
+  Quattro Bajina	Pilot of Type 100 (The gold color MS with the MAP 
+			weapon)
+
+	This blond with the sunglasses is actually Char Aznable, so every 
+Gundam fans should know him. He is pretty slow comparing him to Amuro, but 
+he has the highest long range and skill stats among MS pilots. This newtype 
+has leadership ability, that's why he might leave your team later.
+
+  Camille Vidan	Pilot of Zeta Gundam
+	The blue haired main character from Zeta Gundam is back, and he is 
+still as good as ever, although he don't have "Lucky", he stats are still 
+very high and he is able to move twice at level 33. His romance with the 
+Enhanced Human Four will ultimately be decided in this game...
+
+  Judo Ashita	Pilot of Double Zeta Gundam
+	The always happy Newtype is back, and his attack power is still very 
+high. He is also able to move twice at level 33. All of his friends won't be  
+back as backup pilots, but Elpe Puru and Puru Two might make an appearance 
+later on in the game...
+
+  SeaBook Arno	Pilot of Gundam F91 (The F is pronounce formula)
+	This guy is probably the worst among Newtype Gundam pilots, as he can
+move twice at level 34 and his stats are pretty low, but with the power of 
+F91, he is still one of your best pilots. His girlfriend Cecily Fairchild 
+will make an appearance if you let somebody die...
+
+  Kou Uraki		Pilot of Gundam GP01Fb and GP03 Dendrobium
+	This non-Newtype is probably the best among regular MS pilots. He may
+be shy around girls and dislike carrots, he still has a pretty high skill 
+level and have "Spirit" and can move twice at level 41. If he could just 
+have "Concentrate"....
+
+  Anavel Gato	Pilot of Gundam GP02A Physalis and Neue Ziel
+	The favorite villian from Gundam 0083 is back and he is as good as 
+ever. The "Nightmare of Solomon" has the second highest skill and long range 
+level among MS pilots. It will be a tough choice between Char and Gato, but 
+with the prospect of getting the Atomic MAP weapon is too much to resists...
+
+  Christina Mackenzie	Pilot of Gundam NT-1 Alex
+	This lovely looking test pilot (at least to Bernie) is back and she 
+is still as useless as she was in the 3rd Super Robot Wars. But with the 
+Gundam and some pretty useful "magic", Chris might not be as useless as you 
+think..
+
+  Bernard Wiseman	Pilot of Zaku
+	That's right, this pilot uses a Zaku! This pilot is still pretty 
+useless, but hey, Bernie comes with Chris, which means....
+
+  Roux Rouka
+	Roux is Judo's girlfriend, and she will be a backup pilot depending 
+on one of the crossroad. Her stats might be low, but at least she has "Lucky"
+and "Resupply", and afterall, she is still a Newtype...
+
+  Katsu		Pilot of G-Defensor
+	Another pretty useless Newtype, but the MA he pilot is extremely 
+useful and he is the only one that can convice Sara to join your team if you 
+are on the Real Robot side....
+
+  Keyla Sue		Pilot of Jegan
+	Keyla is back, depending on crossroad, and she is still just average 
+among MS pilots. Well, at least he is better than Hathaway...
+
+  Hathaway Noah	Pilot of Jegan
+	Hathaway is back, just like Keyla, but at least he is a Newtype. Hope
+he has gotten over his obession over Quess...
+
+  Four Murasame	Pilot of Psycho Gundam
+	The love interest of Camille is back. This Enhance Human don't have 
+very high stat level, but she can move twice at level 35 and can be use as 
+second class pilots...
+
+  Rozamia Badam	Pilot of Psycho Gundam Mark II
+	This emotionally unstable Enhance Human is back. She has less useful 
+"magic" as Four, but some of her stats are higher and she does get your team 
+more experience, just hope she don't cause too much trouble for Camille...
+
+  Elpe Puru and
+  Puru Two	Pilot of Quebeley Mark II
+	These two asexually produced Enhance Human are back. Although their 
+stats are not very high, but at least the Quebeley Mark II are quite useful. 
+If only Judo can find them...
+
+  Quess Pariah	Pilot of Jagd Doga or Jegan
+	This girl is a pretty powerful Newtype, and her MS is very good. But 
+how can we find her? Maybe Amuro can help....
+
+		Heavy Metal Series (The series whose robots has P weapons, 
+				    beam coating and beam weapons)
+
+  Mylard	Pilot of L Gaim, L Gaim Mark II
+	The major character of the series has finally make it to the Super 
+Robot Wars series, and he is extremely useful because of his extremely high 
+long range attack, move twice at level 36, and useful robots. Not to 
+mention the fact that two girls are always fighting over him. I wonder where 
+his cousin, the girl that Mylard was suppose to marry, is......
+
+		Aura Battler Series (The series whose robots has after-image 
+				     and Aura and Hyper Aura cuts)
+
+  Shou		Pilot of Dunbine
+	The major character from the series is back from Super Robot Wars EX,
+and he is still extremely useful since he has a pretty good close range and 
+long range stats, able to move twice at level 36, and some useful magic. If 
+he could only have more SP ......
+
+  
+
+
+5) All the crossroads and details on some hard-to-get robots and pilots
+
+	There are quite a few crossroads in this game. Even if you played the
+two paths of your robot, you will still miss a few different stages and some 
+robots and pilots, so this section will detail all the different crossroads 
+and in the process, listing all the robots that you'll get in the different 
+crossroad. In the end of each crossroad, I will add comments on whether you 
+should pick this crossroad over the other one. I am excluding the 
+differences in Super robot side and Real robot side because you should know 
+them by now.
+
+
+  1)  During second stage (or first stage for SFC version)
+
+	If you finish this stage in double digit number of turns (or 8 if SFC
+version), you will be sent to a different sequence of stages than if you 
+finish in single digit number of turns. In the single digit number of turns, 
+you will be presented will less enemy to fight, and you will have one 
+additional robot to appear on Encyclopedia. You will have Hathaway as 
+extra pilot after stage 7. If you finish second stage in double digit number 
+of turns, you will have Keyla instead as extra pilot. You have more 
+enemies to fight and Christ and Bernie will join you during stage 7.
+
+Advice:	For this crossroad, you should choose the double digit crossroad 
+		because it yield more experience and more robots, but it uses
+		up more turns.
+
+  2) Before stage 7 or stage 6 (or 6 and 5, respectively for SFC version)
+
+	Depending on the 1) path, you will choose this path before different 
+stages. Before the stage, someone will ask you whether you have a 
+girlfriend/boyfriend (lover?) or not, and if you ask yes, he/she will start 
+as a Titan and you will have to fight a sea monster in stage 8. You will be 
+allowed to edit her name. If you want him/her to join you, you have to 
+convice him/her to join you in stage 23(or 22 in SFC) if you choose to 
+go to space while in stage 24 (or 22 in SFC) if you decide to stay on 
+earth. If you say no, a co-star of the opposite sex will be choosen for you 
+and will join you as extra pilot after this stage. You will instead be 
+helping combattler V in stage 8. 
+
+  
+Advice:	Take your pick. Depend on whether or not you need the extra 
+		pilot right now. The second pick (no girl/boy-friend) uses up
+		more turns.
+
+  3) After stage 10 (or stage 9 in SFC version)
+
+	This crossroad asks you to whether to cross the Japanese ocean or 
+Pacific ocean, with each one causes a different following stage. If you 
+choose the Japanese ocean, you will get Katsu, but there's less items and 
+experience. If you choose Pacific ocean, Roux will join you instead.
+
+Advice:	Japanese ocean all the way because of the usefulness of G-
+	Defensor (it can be combined with Gundam Mark II) and the 
+	ability to convice Sara to join you in stage 21(20) if in 
+	Real Robot side. But the other path yields more items and 
+	more experiences and uses up a little less turn (but 
+	Dancougar team cannot be used).
+
+  4) After stage 12 ( or stage 11 in SFC version)
+
+	This crossroad asks you whether you want to help one of your team 
+member to find his lover. If you don't go with him, you will fight a boss 
+and in the process decide a crossroad in stage 35 or 36. 
+
+Advice:	Don't go with him. Since going with him uses up some turns and 
+	that part of the team don't have "Search" so you will be missing 
+	a lot of items, no to mention it also by default pick a worse 
+	crossroad for you later on.
+
+  5) During Stage 13 ( or stage 12 in SFC version)
+
+	If you decided not to help find one of your team member's girlfriend,
+you are presented with two choices at this stage. If you manage to kill the 
+boss within 8 turns, you will be in a different stage 35(34) than if you 
+didn't kill the boss.
+
+Advice:	Kill him. By killing him, you will be able to get the I-Field 
+	generator at stage 35(34) and more items. But the other path 
+	yields a better storyline.
+
+  6) During Stage 14 (or stage 14 in SFC version)
+
+	This crossroad will decide which Aura Battler battleship you're going
+to get in stage 18(17). If Shou don't fight the woman in 3 rounds, she will 
+then join you and you will get the battleship with no MAP weapons and two 
+faries, along with the woman (she does have Aura Senshi skill at level 15). 
+If you fight her, you will get a battleship with MAP weapons and two pilots 
+along with two extra robots. 
+
+Advice:	Kill her. The battleship with MAP is more useful and one of the 
+	extra pilot can be used in stage 34(33) (the one which Four is 
+	in your team) to get an extra pilot and robot that has Rally. 
+	She is extremely useful near the end of game because you will 
+	have to split up in two teams and she is one of the only four 
+	member in one team that has Rally, so take your pick carefully.
+
+  7) After stage 18 (or stage 17 in SFC version) 
+
+	Before stage 19, you will be asked which way should you go to invade 
+enemy's base. For the first choice, the map is longer, and the second choice 
+is shorter.
+
+Advice:	Second one all the way. The items and amount of enemies are the 
+	same, so why bother go the longer way!
+
+  8) After stage 23 (or stage 22 in SFC version)
+
+	After the stage, Bright will ask you whether you want to go to space 
+or stay on earth. If you go to space, you go along with Amuro, Fa, Kou, 
+Keith, Dancougar team, Jumbo3 team, Raideen team and Heavy Metal members. 
+If you stay on earth, you go with the rest of the team. The following four 
+stages is different depending on which way you pick.
+
+Advice:	Space is a must for Real Robot side because it's the only way 
+	to convice Mylard's cousin to join you by letting him attack 
+	her. However, on earth you can see the new Geta and your robot 
+	if you're on Super Robot side transform.
+
+P.S. After stage 30 (or 29 in SFC), if you're on the Super Robot side, your 
+stage number will be increase by one because stage 30(29) has two parts but 
+the game still counts as two stages. Make sure to minus 1 from the stage 
+number from that on so the stage number will be the same as mine.
+
+  9) During Stage 32 and stage 33 (or 31 and 32 in SFC)
+
+	In these two stages, you are presented with a tough choice. If you 
+convice Four to join you, you will have a chance at convicing an additional 
+AB pilot and less enemy to fight later on. If you killed her, you can get 
+the EX-Superior Gundam (if you have Superior Gundam. Note: Remember, in SFC 
+version, you have to have the Guntank and in Real Robot side to get Superior 
+Gundam while in PS version, you only have to be in Real Robot side.) and a 
+chance to convice Rozamia to join you at stage 34 and 38. In stage 38, you 
+have to kill the Alpha Aziel (the hugh MA with funnels) first before using 
+Camille to convice Rozamia to join you. After the stage, the doctor will ask 
+you whether you want her to be one of your backup pilots.
+
+Advice:	If you're in Super Robot side, convice Four because you will 
+	need the extra MS pilot and the extra AB pilot. If you're in 
+	Real Robot side, you might want the EX-S Gundam and more enemies 
+	to fight.
+
+  10) During Stage 33 (or 32 in SFC)
+
+	Before this stage, Char will ask you whether you want to help out 
+protecting General Brex Forra. Make sure to say yes (the first 
+option) because I personally like to make my own decision instead of letting 
+the computer doing it for me. During turn 3, the computer will ask you 
+whether you want to escape to the right or the left. If you choose left  
+ (the second option), Brex will be killed and Char will leave your team. 
+This will also decide which stage 40 you are going. Without Char, Cecily and 
+her MS will join you, and you have a chance of convicing Gato to join you if 
+he survive until stage end. With Char, if you protect the NPC until the end, 
+you will get a Sazabi instead (Char's MS with funnel).
+
+Advice:	This one is really up to you. I personally like to let Char go 
+	because GP02A has an Atomic weapon, and using it to finish the 
+	game is much easier for the PS version. 
+Note:	I am not sure if PS version is the same but in order to get the 
+	Atomic weapon in the SFC version, you have to convice Hamaan 
+	Khan with Judo later, which can only happens if you're on Real 
+	Robot side.
+
+  11) During Stage 39 (or 38 in SFC)
+
+	This crossroad is pretty hard to get to. If you're on Super Robot 
+side, just go on to the next because it's not possible to choose unless you 
+are on Real Robot side. About turn 3 or 4, there will be some Heavy Metal 
+enemies appears, and Mylard's cousin is among them. If you use Mylard to 
+atttack her in stage 27(26), use him to convice her in stage 30(29), and 
+use him again to convice her in this stage, she will join you. After you 
+convice her, you can then convice the purple hair guy to join you with 
+Mylard. By convicing him to join you, you will be going to a different 
+stage 41(40). With him, you can then convice Puru and Puru Two to join you 
+with Judo.
+
+Advice:	Go with it if you're on Real Robot side. This way is much faster 
+	and easier than without him. Also one of the only ways to get 
+	Atomic weapon for GP02A.
+
+  PS) During stage 40 (does not really apply to SFC version)
+
+	During this stage, a girl will attack you and one of your team member
+(the one that can transform) will recognize her and say something must be 
+wrong. If you convice her, then this stage will end after you kill the three 
+bosses, and you will have an extra stage to fight with just him, her, and 
+one other girl. 
+	In SFC version, convicing her will add the other two pilots that 
+help you but didn't join you in stage 35.
+Note: If you does go to the extra stage, make sure to minus 1 to follow 
+	my stage numbering system.
+
+Advice:	This stage is pretty useless but it does gave them some 
+	experiences and you don't have to fight three more battleship 
+	and enemies during stage 40 so it would be easier to protect 
+	the NPC.
+
+  12) During stage 41 (or 40 in SFC)
+
+	This crossroad lead to another crossroad, but only accessible in Real
+Robot side. If you convice Puru and Puru Two (only need to convice one of 
+them), after the stage is complete, they will ask you whether or not you 
+want to go with them to get a little girl. By going with him, you have a 
+chance of convicing Hamaan with Judo. In that stage, you have to use Judo 
+to convice Hamaan before attacking any of the enemies. After that, kill as 
+many as you want without killing Hamaan. With only four enemy remaining, 
+Hamaan will retreat and you will get the Atomic weapon in stage 44(43). If 
+you don't follow Judo and Puru, you will go to the moon and fight the Heavy 
+Metal boss, but it is not very hard. If you don't convice Puru to join you 
+at all or if you're on Super Robot side, you will be sent to the hardest 
+stage 43(42) of the possible 3.
+Note:	If you decide to follow Judo, your stage number will increase by 1, 
+	so make sure to minus 1 afterward to follow my stage numbering 
+	system.
+
+Advice:	Follow them at all cost because it's much easier, not to mention 
+	able to use atomic weapon. But you might not want to follow them 
+	if you just want to cross all crossroads.
+
+  13) After stage 44 (or stage 43 in SFC version)
+
+	If you finish stage 44 with a total of 326 turns(?) or less (319 for 
+SFC version), three new pilots will join you (some of your team member will 
+leave) and you won't be given a choice to fight these guys in stage 45. If 
+you finish with more than 326, during stage 45(44), the woman will ask you 
+whether you want to fight them. By saying yes (first option) both times, you 
+will fight them instead of the last boss. This option will result in a bad 
+ending. The stage 45 with less than 326 turns is harder in PS version 
+because the enemies are very spread out and you have to kill them all before 
+the last boss will appear on the map. For SFC version, the boss will always 
+be there so it's a piece of cake. 
+
+Advice:	Depending on your mood. In order to make it in less than 326
+	turns, it takes practice and lose some items and enemies in the 
+	process, not to mention it was a lot harder. Unless you have 
+	GP02A and its atomic weapon and some experience with this game, 
+	I strongly discourage choosing that. Note: By choosing to 
+	fight the guy with two girls instead of fighting the last boss, you 
+	will have two more robots appear in the Encyclopedia.
+   
+
+
+6) "Miracle" trick, hidden characters and some hints
+		 
+	Miracle. This is the ultimate "magic". It increase morale by 30, 
+100% hit, flash, lucky, spirit(triple damage), speed up and complete HP 
+recover for only 40 MP. Only the AB farie for Shou and your character can 
+have this magic. For the AB farie, she has to reach level 56. For your 
+character, you have to input a special birthday and bloodtype. Even "Spirit" 
+require special birthday. The easiest to get is 9/2, O, which gives miracle 
+at level 25, but you will have no "magic" before level 25 and when you do, 
+some of your "magic" is pretty useless, but "Miracle" is all that matters.
+note: 	This only applies to PS version. In SFC version, you will have speed
+	up, flash, concentrate, lucky, spirit and Miracle. You get spirit at 
+	around level 20 and miracle at level 24.
+
+
+	There are two hidden characters (well, if you looked at Deluxe 
+Character Encyclopedia, you should know them by now) in the game (maybe more 
+in PS, but I didn't heard there's more). One is Quess and other is a farie 
+for AB series. In order to get them, you have to get a certain pilot on 
+certain square of a certain stage.
+note:	Since these hidden characters doesn't effect storyline at all, make 
+	sure to get them, especially the AB farie
+
+	AB farie	stage 17, Shou has to be in square 40 down and 2 
+		to the right from the upper left hand corner of map. She will
+		present three choices for you after the stage:
+		first and second choice yields a replacement for Dunbine, 
+		while the last one is leave Dunbine alone. The first and 
+		second choice AB don't have any long range weapons, but they 
+		have pretty high mobility, HP, EN and 10% HP recovery. The 
+		first one is a little more agile while the other has higher 
+		armor and HP.
+	advice:	Take the first one. Since it has higher mobility, you can let
+		the weaker pilots use it and still manage to get to 255.
+
+	Quess:		Stage 30, Amuro has to be in square 6 down and 8 to 
+		the right from the upper left hand corner of the map. She 
+		will give you two choices after the stage:
+		First one is Dera Joga(?) (The MS with funnel) and the second
+		one is just Jeagon (GM). The choice is pretty obvious. 
+	note: 	This stage is only accessible if you follow the real robot 
+		side.
+	
+	
+	Some hints:
+
+	1) If you lost a stage without saving at all, you will have to be 
+back at that stage again, but all the experience and money will be intact,
+but the hidden items won't be there. If you are low in money and experience, 
+you can use this to grab some money and experience, but it still counts 
+toward the total turn counts.
+
+	2) Always, I mean always kill a battleship with "Lucky", even if it's
+piloted by a nobody because it yields lots of money.
+
+	3) There are two planes in the game that is mainly used for resupply,
+and you can choose from the few pilots. Both planes should be piloted by the 
+girls because they have the most useful magic. For the one in Radieen, pick 
+the girl with the lowest level because she has lucky, resupply and love, not 
+to mention that she can move twice at level 38. As for the other plane, the 
+girl has rally, which is extremely useful in later stages, but she has to be 
+at level 32.
+
+	4) If you press the top buttons and select and start together, the 
+game will be rebooted to the main menu. Useful if you don't want to press 
+reset all the time, especially in PS version.
+
+	 
+7) Closing comments
+	
+	Finally, I would like to thank Phillip L Yee(philyee@value.net) for 
+helping me translate some of the names and stuff and for correcting some of 
+my mistakes in the first version. I also need use thank the guys from the 
+Gundam Project(http://gundam.anime.net) since I use many of the name 
+translation for the Gundam series from there. 
+	For those of you that only played the SFC version and really like 
+the old anime shows, make sure to at least borrow the PS version because 
+those original voice actors and actoresses really make a difference. Did you 
+know that Inoue Kikuko, the voice actresses for Belldandy and Tendo Kasumi, 
+is actually doing the voice of one character in the game! 
+	I know this FAQ really sucks, but this is my very first attempt at 
+writing one, so bare with me. As I said before, E-mail me any comments or 
+suggestions to me. See you (maybe) later!
+
+-Edmund Chiu
+edf91@worldnet.att.net
+		
+
+	
+
+	
+	
+
+	
+
 	

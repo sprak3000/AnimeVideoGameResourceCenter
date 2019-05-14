@@ -1,6 +1,6 @@
 # Anime Video Game Resource Center Web Site
 This is the source code for the [Anime Video Game Resource Center](https://www.lupinencyclopedia.com/avrc/). You can
-fork it, install it on your own server, and have a complete reproduction of the site as it was on 1997 April 21. The
+fork it, install it on your own server, and have a complete reproduction of the site as it was on 1997 September 28. The
 site is distributed via the [MIT license](https://github.com/sprak3000/AnimeVideoGameResourceCenter/blob/master/LICENSE).
 If you do host your own version, please acknowledge this repository as the original source.
 

@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## 5.0.0 - 2019 May 14
+* Upload the site contents as they were on 2001 August 21.
+
 ## 4.0.0 - 2019 May 14
 * Upload the site contents as they were on 2001 March 01.
 

@@ -1,0 +1,16 @@
+		a { font-family:  Arial, serif }
+		a:link { text-decoration : none }
+		a:visited { text-decoration : none }
+		a:active { text-decoration : none }
+		body { font-family: Arial, serif }
+		th { font-family:  Arial, serif }
+		td { font-family:  Arial, serif }
+		ul { font-family:  Arial, serif }
+		li { font-family:  Arial, serif }
+		lh { font-family:  Arial, serif }
+		h1 { font-family: Arial, serif }
+		h2 { font-family: Arial, serif }
+		h3 { font-family: Arial, serif }
+		h4 { font-family: Arial, serif }
+		.footer { font-family:  Arial, serif; font-size: 8pt }
+		.menu { font-family:  Arial, serif; font-size: 8pt; position:absolute; visibility:visible; background-color: white; border-color: #000000; border-width: 1pt; border: 1pt #000000 solid; }

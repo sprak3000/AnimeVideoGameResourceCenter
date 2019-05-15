@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 6.0.0 - 2019 May 14
+* Upload the current version of the site.
+* Add contributing documentation.
+
 ## 5.0.0 - 2019 May 14
 * Upload the site contents as they were on 2001 August 21.
 

@@ -11,8 +11,8 @@
 <dl>
 	<dt><strong>Why haven't you updated the site recently?</strong></dt>
 		<dd>Many reasons prevent me from updating the site regularly.  The most significant is the fact that there is only myself
-		running this site, and I have many things competing for my time.  If i have information to post, I try to get it posted quickly. 
-		I usually add information a little bit at a time and grouped by a particular series.  If you haven't seen an update in awhile, 
+		running this site, and I have many things competing for my time.  If i have information to post, I try to get it posted quickly.
+		I usually add information a little bit at a time and grouped by a particular series.  If you haven't seen an update in awhile,
 		be patient; I still have plans for this site and just may not let you know that I am currently working on them.<p></p></dd>
 
 	<dt><strong>Can you send me game/rom <em>x</em>?</strong></dt>
@@ -21,8 +21,8 @@
 		want; if you can't find them, try using your brain and learn how to use a search engine.<p></p></dd>
 
 	<dt><strong>Where can I buy import games?</strong></dt>
-		<dd>Try <a href="http://www.ebay.com/">ebay</a> first.  A large selection of import games is always up for grabs.  After that
-		I would recommend <a href="http://www.ncsx.com/">National Console Support, Inc.</a> (USA) and <a href="http://www.genkivideogames.com/">Genki Video Games</a> (UK).<p></p></dd>
+		<dd>Try <a target="_blank" href="https://www.ebay.com/">ebay</a> first.  A large selection of import games is always up for grabs.  After that
+		I would recommend <a target="_blank" href="http://www.ncsx.com/">National Console Support, Inc.</a> (USA) and <a target="_blank" href="https://www.genkivideogames.com/">Genki Video Games</a> (UK).<p></p></dd>
 
 	<dt><strong>Is there some way i can contribute to the site?</strong></dt>
 		<dd>Yes!  There is plenty of information about these games and series that I do not have.  If you

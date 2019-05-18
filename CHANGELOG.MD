@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 6.0.1 - 2019 May 17
+### Bug Fixes
+* Issue #7 - Fix link issues on index.php
+
 ## 6.0.0 - 2019 May 14
 * Upload the current version of the site.
 * Add contributing documentation.

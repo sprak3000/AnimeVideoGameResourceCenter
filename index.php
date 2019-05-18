@@ -19,19 +19,19 @@ what you are looking for here, try these other video game sites.</p>
 		<tr valign="top">
 			<td>
 				<ul>
-					<li><a href="http://www.rahul.net/arromdee/Anime-games">Ken Arromdee's Anime Video Game List</a></li>
-					<li><a href="http://www.asahi-net.or.jp/~uw7g-bwr/sfc">The Anime Super Famicom Web Resource Center</a></li>
-<!--					<li><a href="http://www.aiai.com/~freddy/animepsx/">Anime Playstation</a> -->
-					<li><a href="http://www.compusmart.ab.ca/dhc/kaiju/">Gorzilla's Kaiju Datapedia</a></li>
-					<li><a href="http://www.classicgaming.com/superpope/dbzshrine/dbzgames.html">dbz.superpope.com</a></li>
+					<li><a target="_blank" href="http://web.archive.org/web/20041009133731/http://www.rahul.net/arromdee/Anime-games">Ken Arromdee's Anime Video Game List</a></li>
+					<li><a target="_blank" href="http://stevethefish.net/superfamicom/">The Anime Super Famicom Web Resource Center</a></li>
+                    <li><a target="_blank" href="http://web.archive.org/web/20010802021927/http://www.aiai.com/~freddy/animepsx/">Anime Playstation</a>
+					<li><a target="_blank" href="http://web.archive.org/web/19991007124913/http://www.compusmart.ab.ca/dhc/kaiju/">Gorzilla's Kaiju Datapedia</a></li>
+					<li><a target="_blank" href="http://dbz.superpope.com/dbzgames.html">dbz.superpope.com</a></li>
 				</ul>
 			</td>
 			<td>
 				<ul>
-					<li><a href="http://www.gamefaqs.com/">GameFAQs</a></li>
-					<li><a href="http://atarihq.com/tsr/">tsr's NES Archive</a></li>
-					<li><a href="http://www.agscc.com/">Asian Game Shark Code Centre</a></li>
-                                        <li><a href="http://assembler.roarvgm.com/">ASSEMbler - Home of the Obscure</a></li>
+					<li><a target="_blank" href="https://gamefaqs.gamespot.com/">GameFAQs</a></li>
+					<li><a target="_blank" href="http://atarihq.com/tsr/">tsr's NES Archive</a></li>
+					<li><a target="_blank" href="http://agscc.fortunecity.ws/">Asian Game Shark Code Centre</a></li>
+                    <li><a target="_blank" href="http://web.archive.org/web/20081212235211/http://assembler.roarvgm.com/">ASSEMbler - Home of the Obscure</a></li>
 				</ul>
 			</td>
 		</tr>

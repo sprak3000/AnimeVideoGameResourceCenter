@@ -11,7 +11,7 @@
 	<tr>		<td valign="top">
 			<ul>				<li><strong>System:</strong>  Nintendo GameCube</li>				<li><strong>Company:</strong></li>
 					<ul>						<li>Asmik Ace</li>					</ul>				<li><strong>Genre:</strong></li>
-					<ul>						<li>Adventure</li>					</ul>			</ul>Preview is available <a href="http://www.the-magicbox.com/game081102e.htm">here</a>.		</td>
+					<ul>						<li>Adventure</li>					</ul>			</ul>Preview is available <a target="_blank" href="http://web.archive.org/web/20040817053623/http://www.the-magicbox.com/game081102e.htm">here</a>.		</td>
 	</tr>
 </table>
 

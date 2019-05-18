@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## 6.0.3 - 2019 May 17
+### Bug Fixes
+* Issue #16 - Fix link issues on game/160.php
+* Issue #26 - Fix link issues on game/130.php
+* Issue #15 - Fix link issues on game/288.php
+* Issue #27 - Fix link issues on game/129.php
+* Issue #12 - Fix link issues on game/299.php
+* Issue #14 - Fix link issues on game/298.php
+* Issue #17 - Fix link issues on game/173.php      
+ 
 ## 6.0.2 - 2019 May 17
 ### Bug Fixes
 * Issue #8 - Fix link issues on thanks.php

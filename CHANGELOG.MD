@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 6.0.2 - 2019 May 17
+### Bug Fixes
+* Issue #9 - Fix link issues on faq.php
+
 ## 6.0.1 - 2019 May 17
 ### Bug Fixes
 * Issue #7 - Fix link issues on index.php

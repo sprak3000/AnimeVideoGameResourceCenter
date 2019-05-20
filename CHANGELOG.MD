@@ -1,5 +1,22 @@
 # CHANGELOG
 
+### 6.0.4 - 2019 May 19
+### Bug Fixes
+* Issue #10 - Fix link issues on series/32.php
+* Issue #11 - Fix link issues on series/43.php
+* Issue #23 - Fix link issues on series/26.php
+* Issue #18 - Fix link issues on series/25.php
+* Issue #19 - Fix link issues on series/42.php
+* Issue #20 - Fix link issues on series/24.php
+* Issue #22 - Fix link issues on series/31.php
+* Issue #21 - Fix link issues on series/36.php
+* Issue #24 - Fix link issues on series/27.php
+* Issue #25 - Fix link issues on series/34.php
+* Issue #30 - Fix link issues on series/35.php
+* Issue #29 - Fix link issues on series/28.php
+* Issue #28 - Fix link issues on series/30.php
+* Issue #31 - Fix link issues on series/37.php             
+
 ## 6.0.3 - 2019 May 17
 ### Bug Fixes
 * Issue #16 - Fix link issues on game/160.php
